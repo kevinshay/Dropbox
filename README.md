@@ -1,5 +1,5 @@
 # Dropbox
-Codepath storyboard excerce
+Codepath storyboard excercise
 
 Requirements hours to completetion: 6
 Completed all required stories
